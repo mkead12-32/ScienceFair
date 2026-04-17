@@ -1,0 +1,4 @@
+Optimization level: -Ofast
+RISC instructions: 55
+CISC instructions: 14
+Executable size: 17688 bytes
